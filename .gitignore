@@ -1,0 +1,41 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project specific
+project/data/raw/chroma/
+project/data/raw/langchain/
+project/data/raw/llama_index/
+project/data/raw/mlflow/
+project/data/raw/ollama/
+*.db
+*.sqlite
+*.log
+
+# Git
+*.git/
+
+# OS
+Thumbs.db
+desktop.ini

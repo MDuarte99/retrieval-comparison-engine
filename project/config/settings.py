@@ -25,7 +25,7 @@ RERANK_MODEL = (
 )
 
 OLLAMA_MODEL = (
-    "qwen3:8b"
+    "qwen2.5:3b"
 )
 
 TOP_K_RETRIEVAL = 20
